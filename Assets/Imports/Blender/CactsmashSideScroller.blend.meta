@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 8ad546eafba85604ba59051169549f47
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BLeg_L
+    100004: BLeg_R
+    100006: Body
+    100008: //RootNode
+    100010: Chain1_L
+    100012: Chain1_R
+    100014: Chain2_L
+    100016: Chain2_R
+    100018: Chain3_L
+    100020: Chain3_R
+    100022: Chain4_L
+    100024: Chain4_R
+    100026: Chain5_L
+    100028: Chain5_R
+    100030: Cone
+    100032: Cylinder
+    100034: FLeg_L
+    100036: FLeg_R
+    100038: Hand_L
+    100040: Hand_R
+    100042: Head
+    100044: Main
+    100046: Plane
+    100048: Shoulder_L
+    100050: Shoulder_R
+    100052: Sphere
+    100054: Sphere_001
+    100056: Sphere_002
+    100058: Spine1
+    100060: Spine2
+    100062: Spine3
+    100064: Torus
+    100066: Torus_001
+    100068: Torus_002
+    100070: Torus_003
+    100072: Torus_004
+    100074: Torus_005
+    100076: Torus_006
+    400000: Armature
+    400002: BLeg_L
+    400004: BLeg_R
+    400006: Body
+    400008: //RootNode
+    400010: Chain1_L
+    400012: Chain1_R
+    400014: Chain2_L
+    400016: Chain2_R
+    400018: Chain3_L
+    400020: Chain3_R
+    400022: Chain4_L
+    400024: Chain4_R
+    400026: Chain5_L
+    400028: Chain5_R
+    400030: Cone
+    400032: Cylinder
+    400034: FLeg_L
+    400036: FLeg_R
+    400038: Hand_L
+    400040: Hand_R
+    400042: Head
+    400044: Main
+    400046: Plane
+    400048: Shoulder_L
+    400050: Shoulder_R
+    400052: Sphere
+    400054: Sphere_001
+    400056: Sphere_002
+    400058: Spine1
+    400060: Spine2
+    400062: Spine3
+    400064: Torus
+    400066: Torus_001
+    400068: Torus_002
+    400070: Torus_003
+    400072: Torus_004
+    400074: Torus_005
+    400076: Torus_006
+    2100000: Silver
+    2100002: Yellow
+    2100004: UnderGreen
+    2100006: Green
+    2100008: Black
+    2100010: LightBlue
+    4300000: Torus_006
+    4300002: Torus_005
+    4300004: Torus_004
+    4300006: Torus_003
+    4300008: Torus_002
+    4300010: Cone
+    4300012: Sphere_002
+    4300014: Sphere_001
+    4300016: Torus_001
+    4300018: Torus
+    4300020: Sphere
+    4300022: Cylinder
+    4300024: Plane
+    7400000: Default Take
+    7400002: Attack
+    7400004: Idle
+    7400006: Walk
+    9500000: //RootNode
+    13700000: Cone
+    13700002: Cylinder
+    13700004: Plane
+    13700006: Sphere
+    13700008: Sphere_001
+    13700010: Sphere_002
+    13700012: Torus
+    13700014: Torus_001
+    13700016: Torus_002
+    13700018: Torus_003
+    13700020: Torus_004
+    13700022: Torus_005
+    13700024: Torus_006
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
